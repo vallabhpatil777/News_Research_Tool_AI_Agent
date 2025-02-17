@@ -23,8 +23,8 @@ A tool for researching news articles, built using **Python**, **Langchain**, **L
 
 1. **Input**: Provide the URL of a news article.
 2. **Web Scraping**: The tool scrapes the article’s content.
-3. **Text Processing**: The text is processed using advanced language models for better understanding.
-4. **Vectorization**: Text is converted into vectors using FAISS for quick search and retrieval.
+3. **Text Processing**: The text is processed for better understanding and conversion into embeddings.
+4. **Vectorization**: Text is converted into vectors and stored using FAISS for quick search and retrieval.
 5. **Question Answering**: Ask questions based on the article's content, and get relevant answers.
    
 ## Steps
