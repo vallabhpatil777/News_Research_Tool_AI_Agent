@@ -76,3 +76,9 @@ GROQ_API_KEY = "your_groq_api_key"
 streamlit run main.py
 ```
 
+
+## Snapshots 
+
+<img width="1728" alt="Screenshot 2025-02-16 at 1 11 14 AM" src="https://github.com/user-attachments/assets/793fe35b-ba5a-4164-8484-279fc0fc9195" />
+
+
